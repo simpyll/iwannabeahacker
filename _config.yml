@@ -1,0 +1,20 @@
+title: IWannaBeAHacker.com
+description: "Cybersecurity Notes"
+base_url: ""
+
+## See manifest.json
+name: "iwannabeahacker"
+short_name: "IWBAH"
+url: "https://iwannabeahacker.com"
+language: "en"
+lang_direction: "ltr"
+color: "#2c76ea"
+
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
