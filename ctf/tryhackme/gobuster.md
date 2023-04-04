@@ -1,5 +1,5 @@
 ---
-title: tryhackme - gobuster - intro to offensive security
+title: 'tryhackme - gobuster - intro to offensive security'
 date: 2023-04-03
 ---
 
